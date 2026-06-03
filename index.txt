@@ -1,1 +1,1 @@
-Hello git project
+hello git project
